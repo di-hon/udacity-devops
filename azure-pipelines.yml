@@ -16,7 +16,7 @@ variables:
   webAppName: 'udacity-ml-service'
 
   # Environment name
-  environmentName: 'flask-ml-service'
+  environmentName: 'udacity-ml-service'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
